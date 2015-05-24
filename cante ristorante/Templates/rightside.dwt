@@ -1,0 +1,81 @@
+<html>
+
+<head>
+     <script type="text/javascript" src="../js/jquery-1.7.2.min.js"></script>
+     <script type="text/javascript" src="../html/js/Krishna.js"></script>
+     
+     <link href="../css/styles.css" rel="stylesheet" type="text/css" media="screen">
+     <link href="../css/print.css" rel="stylesheet" type="text/css" media="print">
+     
+     <meta http-equiv="content-type" content="text/html"; charset="utf-8"/>
+     <meta http-equiv="content-type" content="cache" />
+     <meta name="robots" content="INDEX,FOLLOW" />
+     <meta name="keywords" content="Enter Keywords" />
+     <meta name="description" content="Description Here" />
+<!-- TemplateBeginEditable name="doctitle" -->
+     <title>Web Site By Akshay Web Design</title>
+     <!-- TemplateEndEditable -->
+     <!-- TemplateBeginEditable name="head" -->
+     <!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div id ="wrapper">
+
+     <div id="top">
+             
+     </div> 
+     
+     <div id="slider">
+     	<img src="../images/banner/restaurant.jpg" />     
+  	 </div>
+        
+     <div id="banner">
+   		<img src="../images/logo2.jpg" />         
+     </div> 
+     
+      <div id="topnav">
+      	<ul>
+        	<li><a href="../html/index.html">Welcome</a></li>
+            <li><a href="../html/about.html">About</a></li>
+            <li><a href="../html/menu.html">Menu</a></li>
+            <li><a href="../html/reservation.html">Reservation</a></li>
+            <li><a href="../html/location.html">Location</a></li>
+            <li><a href="../html/winebar.html">Wine Bar</a></li>
+            <li><a href="../html/entertainment.html">Entertainment</a></li>
+  		</ul>   
+      </div>    
+       
+     <div id="subbanner">
+     	<img src="../images/top_banner_1.jpg" />          
+     </div>              
+          
+     <div id="content-left"><!-- TemplateBeginEditable name="content" -->
+       <h1>Welcome to Cante Restaurant</h1>
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempor   urna vel dolor faucibus elementum. Vivamus a leo quis elit euismod   malesuada nec non elit. Praesent rhoncus scelerisque nisl, consectetur   commodo ante lacinia non. Aenean vulputate risus et nibh condimentum   eleifend. Duis ut leo aliquet est molestie vestibulum. Donec sit amet   turpis dui. Proin dui metus, accumsan ut accumsan ut, rutrum sit amet   est. Cras consectetur rhoncus porta. Vestibulum turpis odio, consequat   eget tempus vitae, mollis eu enim. </p>
+       <p>Pellentesque vitae ultrices augue. Proin nec diam diam, non porttitor   justo. Sed pulvinar odio eget libero varius commodo. Praesent commodo   nisl consequat lacus dapibus fringilla. Aenean vitae risus nec dolor   venenatis tincidunt sed ut mi. Nunc fringilla fringilla mattis. Nam   auctor adipiscing sem in molestie. </p>
+       <h2>Second Sub-Heading</h2>
+       <p>Nulla nisl urna, bibendum sed elementum et, fringilla ac risus. Integer   commodo, urna non placerat ultrices, diam sapien sagittis nisi, eget   iaculis orci elit eu justo. Etiam mi orci, sodales et molestie ac,   tincidunt et ligula. In egestas porttitor mi, non elementum justo   pharetra at. Suspendisse id risus felis. Nullam aliquam pharetra velit, a   tristique nulla cursus luctus. Nam sagittis nulla nec erat porttitor et   lacinia purus varius. Proin sit amet diam tellus. </p>
+     <!-- TemplateEndEditable --></div>
+     
+     <div id="rightside"><!-- TemplateBeginEditable name="sidebar" -->
+       <h3>Sidebar Heading</h3>
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Quisque tempor urna vel dolor faucibus elementum. Vivamus a leo quis elit euismod   malesuada nec non elit.</p>
+       <h3>Sidebar Heading</h3>
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Quisque tempor urna vel dolor faucibus elementum. Vivamus a leo quis elit euismod   malesuada nec non elit.</p>
+     <!-- TemplateEndEditable --></div>
+               
+     <div id="bottom-banner">
+    	  <img src="../images/bottom_banner.jpg" />
+     </div>  
+     
+     <div id="footer">
+     	<center>&copy; 2012 Cante Ristorate and Wine Bar - All Rights Reserved</center>   
+	 </div>
+
+</div>
+
+</body>
+</html>
+     
